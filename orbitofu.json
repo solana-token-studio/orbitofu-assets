@@ -1,0 +1,16 @@
+
+{
+  "name": "ORBITOFU",
+  "symbol": "TOFU",
+  "description": "ORBITOFU is an experimental space-themed community token built on Solana. Created for entertainment and blockchain learning. No financial returns or future utility are promised.",
+  "image": "https://raw.githubusercontent.com/solana-token-studio/orbitofu-assets/main/Orbital%20Cube%20Logo.png",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solana-token-studio/orbitofu-assets/main/Orbital%20Cube%20Logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
